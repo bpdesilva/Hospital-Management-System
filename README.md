@@ -1,7 +1,7 @@
 # Hospital-Management-System
 A 1st year project developed for an assignment.
 
-### Scenario 
+#### Scenario 
 
 Health Care hospital currently uses a manual system for the management and maintenance of critical information. The current system requires numerous paper forms, with data stores spread throughout the hospital management infrastructure. Often information (on forms) is incomplete, or does not follow management standards. 
 Multiple copies of the same information exist in the hospital and may lead to inconsistencies in data in various data stores. There are number of documents to be maintained in the Health Care hospital and this information typically involves; patient personal information and medical history, staff information, room and ward scheduling, staff scheduling, operating theater scheduling and various facilities waiting lists. 
