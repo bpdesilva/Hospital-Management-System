@@ -9,10 +9,10 @@ All of this information must be managed in an efficient and cost wise fashion so
 Assume that you are the web developer hired by the Health Care Hospital, to propose, and engineer a low cost but yet powerful and complete Hospital Management System (HMS) for the scenario given above. Suggest and implement important functionalities and features to the system by identifying system functionalities.
 The new system is to control the following information
 
- patient information
- room availability
- staff and operating room schedules
- patient invoices
+* patient information
+* room availability
+* staff and operating room schedules
+* patient invoices
 
 
 These services are to be provided in an efficient, cost effective manner, with the goal of reducing the time and resources currently required for such tasks.
