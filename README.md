@@ -1,5 +1,5 @@
 # Hospital-Management-System
-A 1st year project developed for HND in Computing.
+A 1st year project developed for an assignment.
 
 ### Scenario 
 
